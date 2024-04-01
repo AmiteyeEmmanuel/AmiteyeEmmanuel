@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ As a software developer, one of my quirks is that I jokingly refer to myself as "Creating Bugs Since ..." It's a playful acknowledgment of the fact that debugging and solving issues are an integral part of the development process. Despite our best efforts, bugs can sometimes slip through, but it's all part of the learning experience and makes the victories even sweeter when we squash those pesky bugs and make our code shine!🎯 Goals: <br>As a software developer, my goals include:<br><br>Continuous Learning: I aim to stay updated with the latest technologies and frameworks to enhance my skills and knowledge continually.<br><br>Career Advancement: I strive to take on challenging projects that allow me to apply and expand my expertise, leading to career growth and opportunities.<br><br>Contribution to Open Source: I am passionate about contributing to open-source projects, collaborating with the community, and giving back to the tech ecosystem.<br><br> Innovation and Creativity: I seek to bring innovation and creativity to my work, solving complex problems and delivering impactful solutions that benefit users and businesses alike.<br><br>🎲 Fun fact: One inspiring aspect of being a software developer is that it continually improves with time.</p>
+<p align="left">✨ As a software developer, one of my quirks is that I jokingly refer to myself as "Creating Bugs Since ..." It's a playful acknowledgment of the fact that debugging and solving issues are an integral part of the development process. Despite our best efforts, bugs can sometimes slip through, but it's all part of the learning experience and makes the victories even sweeter when we squash those pesky bugs and make our code shine!<br><br>🎯 Goals: <br>As a software developer, my goals include:<br><br>Continuous Learning: I aim to stay updated with the latest technologies and frameworks to enhance my skills and knowledge continually.<br><br>Career Advancement: I strive to take on challenging projects that allow me to apply and expand my expertise, leading to career growth and opportunities.<br><br>Contribution to Open Source: I am passionate about contributing to open-source projects, collaborating with the community, and giving back to the tech ecosystem.<br><br> Innovation and Creativity: I seek to bring innovation and creativity to my work, solving complex problems and delivering impactful solutions that benefit users and businesses alike.<br><br>🎲 Fun fact: One inspiring aspect of being a software developer is that it continually improves with time.</p>
 
 ###
 
@@ -78,6 +78,41 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/leunamme/leunamme/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leunamme&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leunamme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
