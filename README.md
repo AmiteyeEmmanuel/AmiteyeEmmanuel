@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome! I'm Amiteye Emmanuel, a passionate full stack developer with over 3 years of experience. I love working with Python, React, Next.js, and Bash scripting. I'm highly creative and thrive on collaboration and brainstorming sessions.</p>
+<p align="justify">Welcome! I'm Amiteye Emmanuel, a passionate full stack developer with over 3 years of experience. I love working with Python, React, Next.js, and Bash scripting. I'm highly creative and thrive on collaboration and brainstorming sessions.</p>
 
 ###
 
