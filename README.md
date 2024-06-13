@@ -1,6 +1,4 @@
 <h1 align="center"> Heyyyy yoooo, Welcome Dev! I'm Amiteye Emmanuel </h1>
-
-<video src="https://lottie.host/68965d31-3262-4be3-bdcf-9abeb6f5f33e/51cVTNWYG6.json" width="12" /> 
   
 ###
 
