@@ -1,5 +1,5 @@
 <h1 align="center"> Heyyyy yoooo </h1>
-<h2 align="center" text="italic"> Welcome Dev! I'm Amiteye Emmanuel </h1>
+<h2 align="center" fontStyle="italic"> Welcome Dev! I'm Amiteye Emmanuel </h1>
 
   
 ###
