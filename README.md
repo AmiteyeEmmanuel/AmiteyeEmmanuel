@@ -1,18 +1,5 @@
 <h1 align="center"> Heyyyy yoooo </h1>
-<h2 align="center"><i>Welcome Dev! I'm Amiteye Emmanuel</i></h2>
-
-
-<video
-  playsinline
-  class="card card-2 w-full lg:left-[20px] top-[-20px] md:px-20 px-10 xl:h-[75vh] h-[50vh] rounded-2xl"
-  preload="auto"
-  muted
-  loop
-  controls
->
-  <source src="https://lottie.host/embed/68965d31-3262-4be3-bdcf-9abeb6f5f33e/51cVTNWYG6.json" type="video/mp4" />
-</video>
-
+<h2 align="center"><i>Welcome Dev! I'm Amiteye Emmanuel 👋</i></h2>
   
 ###
 
