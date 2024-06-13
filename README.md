@@ -1,6 +1,7 @@
 <h1 align="center"> Heyyyy yoooo, Welcome Dev! I'm Amiteye Emmanuel </h1>
 
-<video src="https://lottie.host/68965d31-3262-4be3-bdcf-9abeb6f5f33e/51cVTNWYG6.json"> 
+<video src="https://lottie.host/68965d31-3262-4be3-bdcf-9abeb6f5f33e/51cVTNWYG6.json" width="12" /> 
+  
 ###
 
 <p align="justify"> A passionate full stack developer with over 3 years of experience. I love working with Python, React, Next.js, and Bash scripting. I'm highly creative and thrive on collaboration and brainstorming sessions.</p>
