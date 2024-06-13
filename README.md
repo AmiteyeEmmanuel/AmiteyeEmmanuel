@@ -1,9 +1,6 @@
 <h1 align="center"> Heyyyy yoooo, Welcome Dev! I'm Amiteye Emmanuel </h1>
 
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
-
-    <dotlottie-player src="https://lottie.host/68965d31-3262-4be3-bdcf-9abeb6f5f33e/51cVTNWYG6.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
-
+<video src="https://lottie.host/68965d31-3262-4be3-bdcf-9abeb6f5f33e/51cVTNWYG6.json"> 
 ###
 
 <p align="justify"> A passionate full stack developer with over 3 years of experience. I love working with Python, React, Next.js, and Bash scripting. I'm highly creative and thrive on collaboration and brainstorming sessions.</p>
