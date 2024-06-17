@@ -17,8 +17,13 @@
 
 ### 
 
+
+<div> 
 <h2 align=""justify> Some Projects. </h2>
-[![Watch the video](https://www.notion.so/Quick-Note-0d4fa4af6f9b43109a89503753f6b78f?pvs=4#76c7b5cb195644d1b204fcfb0461eb78)]
+  <img src="https://hackmd.io/_uploads/rkhPMP6rA.png" height="100" alt="javascript logo"  />
+  <img width="100" />
+
+</div>
 <h2 align="justify">I code with</h2>
 
 ###
