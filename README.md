@@ -18,7 +18,7 @@
 ### 
 
 <h2 align=""justify> Some Projects. </h2>
-<iframe width="560" height="315" src="https://www.notion.so/Quick-Note-0d4fa4af6f9b43109a89503753f6b78f?pvs=4#76c7b5cb195644d1b204fcfb0461eb78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://www.notion.so/Quick-Note-0d4fa4af6f9b43109a89503753f6b78f?pvs=4#76c7b5cb195644d1b204fcfb0461eb78)]
 <h2 align="justify">I code with</h2>
 
 ###
