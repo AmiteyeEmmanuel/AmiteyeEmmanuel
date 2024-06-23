@@ -19,9 +19,9 @@
 
 
 <div> 
-<h2 align=""justify> Some Projects. </h2>
+<!-- <h2 align=""justify> Some Projects. </h2>
   <img src="https://hackmd.io/_uploads/rkhPMP6rA.png" height="300" alt="javascript logo"  />
-  <img width="300" />
+  <img width="300" /> -->
 
 </div>
 <h2 align="justify">I code with</h2>
