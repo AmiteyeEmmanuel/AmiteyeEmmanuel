@@ -4,10 +4,6 @@
   
 ###
 
-<p align="justify"> A passionate full stack developer with over 3 years of experience. I love working with Python, React, Next.js, and Bash scripting. I'm highly creative and thrive on collaboration and brainstorming sessions.</p>
-
-###
-
 <h2 align="justify">About me</h2>
 
 ###
